@@ -1,4 +1,4 @@
-# ### Project Title: Smart ATS Resume Optimizer
+### Project Title: Smart ATS Resume Optimizer
 
 ### Project Description:
 
