@@ -36,7 +36,7 @@ The **Smart ATS Resume Optimizer** is a sophisticated Streamlit web application 
 ### Tech Stack:
 
 - **Frontend**: Streamlit
-- **Backend**: Google Generative AI API (Gemini Model)
+- **Backend**: Google Generative AI API (Gemini-Pro Model)
 - **PDF Handling**: PyPDF2
 - **Environment Management**: Python Dotenv for managing API keys and environment variables
 
@@ -49,7 +49,6 @@ The **Smart ATS Resume Optimizer** is a sophisticated Streamlit web application 
 ### Future Enhancements:
 
 - **Integration with LinkedIn**: Automatically pull user profiles and suggest improvements.
-- **Multi-Language Support**: Extend the application to support resume optimization in multiple languages.
 - **Real-time Job Matching**: Suggest jobs that best fit the optimized resume based on current job market trends.
 
 This project not only empowers users to refine their resumes but also leverages cutting-edge AI to ensure that their applications stand out in a competitive job market. The Smart ATS Resume Optimizer is a powerful tool for anyone looking to improve their chances of landing their desired job.
